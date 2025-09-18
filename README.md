@@ -82,6 +82,11 @@ public class AverageNumbers {
 
 ## Screenshots
 
+1. Output example:
+
+<img src="screenshots/Output Example.png" alt="Output" width="400">
+
+
 
 
 
